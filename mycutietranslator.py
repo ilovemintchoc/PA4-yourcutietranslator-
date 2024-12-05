@@ -88,6 +88,7 @@ The dataframe should include the following 5 columns:
 - KOREA synonyms: 5 synonyms in Korea of the Korea word that translated from the English word in one row and audio how to pronouce each word
 - JPN word: a Japanese word that translated from the English word
 - JPN synonyms: 5 synonyms in Japanese of the Japanese word that translated from the English word in one row and audio how to pronouce each word
+Do not forget to return it as table
 """
 
 #creating input
